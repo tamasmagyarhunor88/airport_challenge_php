@@ -1,4 +1,5 @@
 # Airport challenge in PHP
+```
         ______
         _\____\___
 =  = ==(____PHP____)
@@ -6,9 +7,9 @@
           /     o o o o o o o o o o o o o o o o  |\_______________
          /							  \	
 	 `~-.__       __..----..__  airHUNOR              	  /
-                `---~~\___________/------------````````````````````
+                `---~~\___________/------------```````````````````
           ~~~~~~~  ===(_________)
-
+```
 
 
 To deepen my basic PHP knowledge, I start doing our lovely Airport challenge
