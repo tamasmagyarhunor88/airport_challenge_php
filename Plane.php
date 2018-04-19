@@ -1,7 +1,9 @@
 <?php
 
-require 'Airport.php';
+use PHPUnit\Framework\TestCase;
 
 class Plane {
-  function land() {}
+  function land() {
+    return true;
+  }
 }
